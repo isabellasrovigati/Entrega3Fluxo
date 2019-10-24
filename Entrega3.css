@@ -1,0 +1,436 @@
+.fotoperfil {
+
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-left: -45px;
+   
+}
+.iconeretweet {
+    fill: #8899a6;
+    margin-top: 1px;
+    margin-left: 40px;
+    display: inline-table;
+    justify-content: stretch;
+    margin-left:-30px;
+   
+    
+}
+.retweet {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left:30px;
+  
+
+    
+
+
+}
+.corpo {
+  margin-left:33%;
+   
+    
+}
+.userretweet {
+
+  
+    font-family: Verdana, sans-serif;
+        color: #8899a6;
+        height: 16;
+        font-size: 12px;
+        margin-top: 2px;
+        margin-left:10px;
+    
+}
+.text {
+    display: flex;
+        flex-direction: column;
+        font-size: 14px;
+        margin-left: 27px;
+        margin-top: 3px;
+
+}
+.atdata {
+    margin-left: 3px;
+}
+.textimagebutton {
+    display: flex;
+    flex-direction: column;
+}
+.textimage {
+    display: flex;
+    flex-direction: column;
+}
+.textadam {
+    margin-left:-345px;
+    font-family:verdana, sans-serif;
+    font-size:14px;
+    margin-top:10px;
+    line-height: 20.75px;
+    margin-right:420px;
+   
+
+}
+.mark {
+    color:rgb(27, 149, 224);
+
+
+}
+.atdata4 {
+   margin-top:-30px;
+   margin-left:-204px;
+   font-family: verdana, sans-serif;
+   font-size: 14px;
+} 
+.iconeseta4 {
+    background-color: transparent;
+    border: none;
+    margin-top:-8px;
+
+    fill: #8899a6;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+
+}
+.perf {
+    border-radius: 50%;
+    margin-left:-400px;
+    width:37px;
+    height:37px;
+    margin-top:50px;
+}
+.alltext {
+    color: black;
+    font-family: verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 18px;
+
+}
+.botoesicones {
+
+
+
+    background-color: transparent;
+    border: transparent;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+    
+
+}
+.tweet {
+    width: 480px;
+    color: black; 
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 19.6875px;
+    font-weight: 400;
+    font-stretch: 100%;
+    padding-top: 0.5px;
+    margin-left: -18px;
+    width: 505.98;
+    height: 60;
+
+    
+
+   
+}
+.title {
+    display: flex;
+    flex-direction: row;
+}
+.iconeseta {
+    background-color: transparent;
+    border: none;
+    margin-top: 4px;
+    margin-left: 150px;
+    fill: #8899a6;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+}
+.nome {
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19.6875px;
+    margin-left: -18px;
+}
+.marcacao {
+    color: rgb(27, 149, 224);
+    font-stretch: 100%;
+    font-weight: 400;
+    line-height: 19.6875px;
+    font-size: 14px;
+    font-family: verdana, sans-serif;
+}
+.icone {
+    margin-top: 15px;
+    padding-bottom: 9px;
+    fill: rgb(110, 118, 125);
+   
+
+     
+}
+.botoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 450px;
+    margin-left:-30px;
+    
+}
+.numero {
+    margin-top: 18px;
+    font-family:verdana,sans-serif;
+    font-size:15px;
+}
+.icone_numero {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    padding-right: 55px;
+  
+}
+.foto2{
+
+    padding-top: 180px;
+}
+.nome2 {
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19.6875px;
+    margin-left: 15px;
+    padding-top:40px;
+
+}
+.atdata2 {
+  font-family: verdana, sans-serif;
+  color:black;
+  font-size:14px;
+  position: absolute;
+  padding-top:190px;
+  padding-left: 75px;
+}
+.iconeseta2 {
+    background-color: transparent;
+    border: none;
+    margin-top: -9px;
+    margin-left: 188px;
+    fill: #8899a6;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+}
+.adam {
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    position:absolute;
+    margin-left:-345px;
+    margin-top:-30px;
+
+}
+.tweet2 {
+    width: 370px;
+    color: black; 
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 21.6875px;
+    font-weight: 400;
+    font-stretch: 100%;
+    padding-left: 10px;
+    margin-top:-6px;
+    height: 60;
+   
+}
+.nasa {
+
+    width:346px;
+    height: 529px;
+    padding-top: 72px;
+    padding-left:13px;
+
+}
+.icone_numero2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    padding-right: 55px;
+    padding-left:30px;
+}
+.icone_numero3 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1300px;
+    padding-right: 55px;
+    margin-left:-420px;
+    margin-right: 420px;
+
+}
+.numero2 {
+    margin-top: 18px;
+    font-size:15px;
+    font-family:verdana,sans-serif;
+}
+.botoesicones2 {
+    
+    background-color: transparent;
+    border: transparent;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+}
+
+
+.botoesicones3 {
+   
+    background-color: transparent;
+    border: transparent;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+    
+   
+    
+}
+  
+.botoesicones3:hover {
+    background-color: lightcoral;
+    color: white;
+    
+}
+  
+.fotoperfil3 {
+    
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+   padding-top:35px;
+    margin-left: -45px;
+    
+}
+.nome3 {
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19.6875px;
+    padding-top:962px;
+    position:absolute;
+    margin-left:12px;
+
+}
+.atdata3 {
+    font-family: verdana, sans-serif;
+    color:black;
+    font-size:14px;
+    position: absolute;
+    padding-top:962px;
+    padding-left: 69px;
+
+}
+.corpo3 {
+    padding-top: 10px;
+
+}
+.iconecurtiu {
+
+    margin-top:-110px;
+    fill: #8899a6;
+    margin-left: 40px;
+    display: inline-table;
+    justify-content: stretch;
+    margin-left:-30px;
+}
+.ufrj {
+    width:350px;
+    height: 200px;
+    position: absolute;
+    padding-left:10px;
+    padding-top:1080px;
+}
+.iconeseta3 {
+    background-color: transparent;
+    border: none;
+    margin-top:481px;
+    fill: #8899a6;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+    position:relative;
+    margin-left:-70px;
+
+
+} 
+.tweet3 {
+    width: 370px;
+    color: black; 
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 21.6875px;
+    font-weight: 400;
+    font-stretch: 100%;
+    padding-left: 10px;
+    padding-top:970px;
+    height: 60;
+    position: absolute;
+}
+.star {
+    width: 34px;
+    height:34px;
+    border: none;
+    fill:rgba(29, 161, 242, 1);
+    cursor: pointer;
+    background-color:transparent;
+    margin-left:380px;
+    margin-top:-26px;
+
+   
+}
+
+.page {
+    margin-top: -30px;
+    margin-left: 140px;
+    font-family: verdana, sans-serif;
+    font-size:15px;
+    font-weight:700;
+    color:15px;
+
+}
+.null {
+    width:34px;
+    height: 34px;
+    border-radius:50%;
+    margin-left:-50px;
+}
+.icone_numero4 {
+   
+    margin-right: 400px;
+    margin-left:-330px;
+    
+   
+
+}
+
+.botoesicones4 {
+    background-color: transparent;
+    border: transparent;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+
+}
+.numero3 {
+    
+    font-size:15px;
+    font-family:verdana,sans-serif;
+    margin-top:-27px;
+    margin-left:28px;
+
+}

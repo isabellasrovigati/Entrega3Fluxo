@@ -1,0 +1,152 @@
+.titulo {
+    margin-top: 10px;
+    display:flex;
+    flex-direction: row;
+
+    
+}
+.corpo {
+    margin-left: 33%;
+}
+.null {
+    width:34px;
+    height: 34px;
+    border-radius:50%;
+   
+   
+}
+.topo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top:20px;
+    margin-left:-440px;
+    font-family: verdana, sans-serif;
+    font-size:13px;
+    color:darkslategrey;
+    font-weight: 550;
+    margin-right:30px;
+}
+.inter {
+    margin-left: 180px;
+}
+
+.text {
+    font-size: 15px;
+    font-weight:700;
+    font-family: verdana, sans-serif;
+    color: black;
+    margin-left: 130px;
+    margin-top:10px;
+    
+  
+   
+    
+}
+.iconeseta {
+    background-color: transparent;
+    border: none;
+    fill: #8899a6;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+    margin-left:210px;
+    margin-top:-33px;
+    
+}
+
+.raio {
+    fill: rgba(29, 161, 242, 1);
+    width:22.5;
+    height: 22.5;
+    margin-left: 25px;
+    margin-top:15px;
+    
+}
+.sel {
+    border-radius: 50%;
+    width:37px;
+    height:37px;
+    margin-left:60px;
+    margin-top:-20px;
+}
+.hello {
+    
+    background-color:transparent;
+    border:none;
+    margin-left:140px;
+    margin-top:-1px;
+    fill:rgb(29, 161, 242);
+    width: 35.5px;
+    height: 35.5px;
+}
+.o {
+    fill: rgba(29, 161, 242, 1);
+    width:22.5;
+    height: 22.5;
+    margin-left: 25px;
+    margin-top:15px;
+
+}
+.s {
+    border-radius: 50%;
+    width:37px;
+    height:37px;
+    margin-left:60px;
+    margin-top:-20px;
+}
+.james {
+    border-radius: 50%;
+    width:37px;
+    height:37px;
+    margin-left:60px;
+    margin-top:-20px;
+}
+.notif {
+    margin-left: 60px;
+    margin-top:8px;
+    font-family:verdana,sans-serif;
+    font-size:13px;
+   
+
+}
+.not {
+    fill: rgba(29, 161, 242, 1);
+    width:22.5;
+    height: 22.5;
+    margin-left: 25px;
+    margin-top:15px;
+}
+.nova {
+    width:22.5px;
+    height:22.5px;
+    margin-left:25px;
+    margin-top:25px;
+}
+.k {
+    margin-left: 60px;
+    margin-top:8px;
+    font-family:verdana,sans-serif;
+    font-size:13px;
+}
+.leg {
+   margin-top:-25px;
+    margin-left:60px;
+    margin-right:500px;
+    line-height:21.75px;
+    font-family: verdana,sans-serif;
+    font-size: 13px;
+}
+.leg3 {
+    margin-left: 60px;
+    margin-top:8px;
+    font-family:verdana,sans-serif;
+    font-size:13px;
+
+}
+.sub {
+    padding-top: 15px;
+    font-family: verdana,sans-serif;
+    font-size: 11px;
+    margin-left: 68px;
+}
