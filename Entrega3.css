@@ -3,7 +3,7 @@
     border-radius: 50%;
     width: 50px;
     height: 50px;
-    position: absolute;
+    position:absolute;
     margin-left: -45px;
    
 }
@@ -22,6 +22,7 @@
     flex-direction: row;
     margin-top: 10px;
     margin-left:30px;
+   
   
 
     
@@ -29,8 +30,9 @@
 
 }
 .corpo {
-  margin-left:33%;
-   
+ margin-left:70px;
+ margin-top:20px;
+  
     
 }
 .userretweet {
@@ -401,6 +403,7 @@
     font-size:15px;
     font-weight:700;
     color:15px;
+   
 
 }
 .null {
@@ -433,4 +436,68 @@
     margin-top:-27px;
     margin-left:28px;
 
+}
+.camisa23 {
+    border-radius:50%;
+    width:43px;
+    height: 43px;
+    margin-top:60px;
+    
+}
+.tweet5 {
+    margin-left:-413px;
+   
+}
+.user5 {
+    margin-top:-18px;
+    font-family:verdana, sans-serif;
+    font-size:14px;
+    margin-left:170px;
+    
+
+} 
+.name5 {
+    margin-top:-30px;
+    font-family:verdana, sans-serif;
+    font-size:15px;
+    margin-left:60px;
+    font-weight: 600;
+
+}
+.iconeseta5 {
+    background-color: transparent;
+    border: none;
+    fill: #8899a6;
+    display: inline-table;
+    justify-content: stretch;
+    cursor: pointer;
+    margin-left:204px;
+    margin-top:-16px;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    margin-left:15px;
+   
+   
+
+}
+
+.text5 {
+    margin-left:60px;
+    font-family:verdana, sans-serif;
+    font-size:14px;
+    line-height: 20.75px;
+
+}
+.margem {
+    margin-left:76px;
+    margin-top:-12px;
+    margin-right:430px;
+}
+.tabela {
+    border:1px solid grey;
+    width:520px;
+    
+    
 }
